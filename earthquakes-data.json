@@ -34684,5 +34684,14 @@
     "date": "17 October 2025 - 04:05 PM",
     "location": "019 km N 59° E of City Of Bogo (Cebu)",
     "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1017_0805_B1F.html"
+  },
+  {
+    "id": 3855,
+    "latitude": "18.65",
+    "longitude": "120.73",
+    "mag": "5.2",
+    "date": "17 October 2025 - 04:14 PM",
+    "location": "011 km N 32° W of Pagudpud (Ilocos Norte)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1017_081415_B1.html"
   }
 ]
