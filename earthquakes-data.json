@@ -44028,5 +44028,25 @@
     "mag": "3.3",
     "location": "090 km S 90° E of Manay (Davao Oriental)",
     "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1020_0800_B1F.html"
+  },
+  {
+    "id": 4404,
+    "date": "20 October 2025 - 04:06 PM",
+    "latitude": "11.19",
+    "longitude": "124.05",
+    "depth_km": "4 km",
+    "mag": "2.4",
+    "location": "017 km N 27° E of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1020_0806_B1F.html"
+  },
+  {
+    "id": 4405,
+    "date": "20 October 2025 - 04:08 PM",
+    "latitude": "11.17",
+    "longitude": "124.05",
+    "depth_km": "32 km",
+    "mag": "2.0",
+    "location": "015 km N 29° E of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1020_0808_B1F.html"
   }
 ]
