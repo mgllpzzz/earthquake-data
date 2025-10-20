@@ -34729,5 +34729,14 @@
     "date": "17 October 2025 - 04:31 PM",
     "location": "013 km N 66° W of Pagudpud (Ilocos Norte)",
     "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1017_083154_B1.html"
+  },
+  {
+    "id": 3860,
+    "latitude": "08.86",
+    "longitude": "126.38",
+    "mag": "2.3",
+    "date": "20 October 2025 - 07:05 AM",
+    "location": "010 km S 54° E of Cagwait (Surigao Del Sur)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1019_2305_B1F.html"
   }
 ]
