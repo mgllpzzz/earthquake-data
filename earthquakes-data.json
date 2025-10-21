@@ -36772,12 +36772,12 @@
   {
     "id": 3678,
     "date": "16 October 2025 - 06:03 PM",
-    "latitude": "11.03",
-    "longitude": "124.09",
-    "depth_km": "2 km",
-    "mag": "2.7",
-    "location": "013 km S 83° E of City Of Bogo (Cebu)",
-    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1016_1003_B1F.html"
+    "latitude": "11.04",
+    "longitude": "124.05",
+    "depth_km": "9 km",
+    "mag": "2.6",
+    "location": "007 km S 88° E of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1016_1003_B2F.html"
   },
   {
     "id": 3679,
@@ -36792,12 +36792,12 @@
   {
     "id": 3680,
     "date": "16 October 2025 - 06:17 PM",
-    "latitude": "11.28",
-    "longitude": "124.06",
-    "depth_km": "30 km",
-    "mag": "1.3",
-    "location": "027 km N 18° E of City Of Bogo (Cebu)",
-    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1016_1017_B1F.html"
+    "latitude": "11.15",
+    "longitude": "124.14",
+    "depth_km": "18 km",
+    "mag": "1.5",
+    "location": "021 km N 58° E of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1016_1017_B2F.html"
   },
   {
     "id": 3681,
@@ -36842,12 +36842,12 @@
   {
     "id": 3685,
     "date": "16 October 2025 - 07:42 PM",
-    "latitude": "11.12",
-    "longitude": "124.08",
-    "depth_km": "30 km",
+    "latitude": "11.10",
+    "longitude": "123.95",
+    "depth_km": "9 km",
     "mag": "1.6",
-    "location": "014 km N 53° E of City Of Bogo (Cebu)",
-    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1016_1142_B1F.html"
+    "location": "006 km N 29° W of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1016_1142_B2F.html"
   },
   {
     "id": 3686,
@@ -45228,5 +45228,45 @@
     "mag": "1.7",
     "location": "016 km S 36° W of Nagtipunan (Quirino)",
     "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_0335_B1.html"
+  },
+  {
+    "id": 4524,
+    "date": "21 October 2025 - 12:19 PM",
+    "latitude": "09.00",
+    "longitude": "126.18",
+    "depth_km": "30 km",
+    "mag": "1.9",
+    "location": "008 km S 08° E of City Of Tandag (Surigao Del Sur)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_0419_B1.html"
+  },
+  {
+    "id": 4525,
+    "date": "21 October 2025 - 12:43 PM",
+    "latitude": "07.16",
+    "longitude": "126.85",
+    "depth_km": "30 km",
+    "mag": "3.2",
+    "location": "034 km S 81° E of Manay (Davao Oriental)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_0443_B1F.html"
+  },
+  {
+    "id": 4526,
+    "date": "21 October 2025 - 01:06 PM",
+    "latitude": "11.15",
+    "longitude": "124.05",
+    "depth_km": "31 km",
+    "mag": "1.9",
+    "location": "014 km N 34° E of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_0506_B1F.html"
+  },
+  {
+    "id": 4527,
+    "date": "21 October 2025 - 01:20 PM",
+    "latitude": "13.24",
+    "longitude": "120.86",
+    "depth_km": "34 km",
+    "mag": "2.0",
+    "location": "024 km N 41° E of Santa Cruz (Occidental Mindoro)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_0520_B1.html"
   }
 ]
