@@ -45178,5 +45178,15 @@
     "mag": "2.1",
     "location": "024 km S 58° E of Cagwait (Surigao Del Sur)",
     "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_0111_B1F.html"
+  },
+  {
+    "id": 4519,
+    "date": "21 October 2025 - 09:40 AM",
+    "latitude": "09.54",
+    "longitude": "126.08",
+    "depth_km": "2 km",
+    "mag": "2.1",
+    "location": "015 km S 55° E of Socorro (Surigao Del Norte)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_0140_B1.html"
   }
 ]
