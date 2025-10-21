@@ -45191,6 +45191,16 @@
   },
   {
     "id": 4520,
+    "date": "21 October 2025 - 09:58 AM",
+    "latitude": "09.64",
+    "longitude": "126.24",
+    "depth_km": "31 km",
+    "mag": "2.0",
+    "location": "018 km S 32° E of General Luna (Surigao Del Norte)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_0158_B1F.html"
+  },
+  {
+    "id": 4521,
     "date": "21 October 2025 - 10:23 AM",
     "latitude": "09.09",
     "longitude": "126.08",
@@ -45200,7 +45210,7 @@
     "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_0223_B1.html"
   },
   {
-    "id": 4521,
+    "id": 4522,
     "date": "21 October 2025 - 11:30 AM",
     "latitude": "09.70",
     "longitude": "126.17",
@@ -45210,7 +45220,7 @@
     "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_0330_B1F.html"
   },
   {
-    "id": 4522,
+    "id": 4523,
     "date": "21 October 2025 - 11:35 AM",
     "latitude": "16.11",
     "longitude": "121.52",
@@ -45218,15 +45228,5 @@
     "mag": "1.7",
     "location": "016 km S 36° W of Nagtipunan (Quirino)",
     "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_0335_B1.html"
-  },
-  {
-    "id": 4523,
-    "date": "21 October 2025 - 09:58 AM",
-    "latitude": "09.64",
-    "longitude": "126.24",
-    "depth_km": "31 km",
-    "mag": "2.0",
-    "location": "018 km S 32° E of General Luna (Surigao Del Norte)",
-    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_0158_B1F.html"
   }
 ]
