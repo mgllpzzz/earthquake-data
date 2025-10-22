@@ -45368,5 +45368,805 @@
     "mag": "3.0",
     "location": "033 km N 49° E of Don Marcelino (Davao Occidental)",
     "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_0754_B1.html"
+  },
+  {
+    "id": 4538,
+    "date": "21 October 2025 - 04:03 PM",
+    "latitude": "08.88",
+    "longitude": "126.47",
+    "depth_km": "24 km",
+    "mag": "2.1",
+    "location": "019 km S 78° E of Cagwait (Surigao Del Sur)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_0803_B1F.html"
+  },
+  {
+    "id": 4539,
+    "date": "21 October 2025 - 04:06 PM",
+    "latitude": "10.38",
+    "longitude": "126.29",
+    "depth_km": "1 km",
+    "mag": "3.1",
+    "location": "047 km N 31° E of Burgos (Surigao Del Norte)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_0806_B1.html"
+  },
+  {
+    "id": 4540,
+    "date": "21 October 2025 - 04:11 PM",
+    "latitude": "07.30",
+    "longitude": "127.25",
+    "depth_km": "96 km",
+    "mag": "2.9",
+    "location": "079 km N 83° E of Manay (Davao Oriental)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_0811_B1F.html"
+  },
+  {
+    "id": 4541,
+    "date": "21 October 2025 - 04:34 PM",
+    "latitude": "09.63",
+    "longitude": "126.21",
+    "depth_km": "34 km",
+    "mag": "2.1",
+    "location": "018 km S 18° E of General Luna (Surigao Del Norte)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_0834_B1F.html"
+  },
+  {
+    "id": 4542,
+    "date": "21 October 2025 - 05:07 PM",
+    "latitude": "11.14",
+    "longitude": "124.17",
+    "depth_km": "9 km",
+    "mag": "4.4",
+    "location": "024 km N 63° E of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_0907_B2F.html"
+  },
+  {
+    "id": 4543,
+    "date": "21 October 2025 - 05:23 PM",
+    "latitude": "09.63",
+    "longitude": "126.16",
+    "depth_km": "33 km",
+    "mag": "1.5",
+    "location": "017 km S 02° E of General Luna (Surigao Del Norte)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_0923_B1F.html"
+  },
+  {
+    "id": 4544,
+    "date": "21 October 2025 - 05:51 PM",
+    "latitude": "13.67",
+    "longitude": "120.92",
+    "depth_km": "23 km",
+    "mag": "2.1",
+    "location": "006 km N 80° E of Tingloy (Batangas)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_0951_B1.html"
+  },
+  {
+    "id": 4545,
+    "date": "21 October 2025 - 06:24 PM",
+    "latitude": "11.16",
+    "longitude": "124.19",
+    "depth_km": "10 km",
+    "mag": "2.4",
+    "location": "027 km N 61° E of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1024_B1F.html"
+  },
+  {
+    "id": 4546,
+    "date": "21 October 2025 - 06:55 PM",
+    "latitude": "08.55",
+    "longitude": "126.83",
+    "depth_km": "27 km",
+    "mag": "1.6",
+    "location": "071 km S 55° E of Cagwait (Surigao Del Sur)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1055_B1F.html"
+  },
+  {
+    "id": 4547,
+    "date": "21 October 2025 - 07:02 PM",
+    "latitude": "13.47",
+    "longitude": "120.76",
+    "depth_km": "33 km",
+    "mag": "1.5",
+    "location": "005 km N 58° E of Abra De Ilog (Occidental Mindoro)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1102_B1.html"
+  },
+  {
+    "id": 4548,
+    "date": "21 October 2025 - 07:27 PM",
+    "latitude": "04.01",
+    "longitude": "123.11",
+    "depth_km": "576 km",
+    "mag": "4.3",
+    "location": "271 km S 26° W of Palimbang (Sultan Kudarat)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1127_B1.html"
+  },
+  {
+    "id": 4549,
+    "date": "21 October 2025 - 07:31 PM",
+    "latitude": "11.09",
+    "longitude": "123.97",
+    "depth_km": "33 km",
+    "mag": "2.4",
+    "location": "005 km N 14° W of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_113102_B1F.html"
+  },
+  {
+    "id": 4550,
+    "date": "21 October 2025 - 07:31 PM",
+    "latitude": "18.33",
+    "longitude": "120.78",
+    "depth_km": "6 km",
+    "mag": "2.4",
+    "location": "017 km S 90° E of Pasuquin (Ilocos Norte)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_113119_B1.html"
+  },
+  {
+    "id": 4551,
+    "date": "21 October 2025 - 08:17 PM",
+    "latitude": "07.47",
+    "longitude": "126.58",
+    "depth_km": "23 km",
+    "mag": "1.8",
+    "location": "012 km S 07° E of Baganga (Davao Oriental)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1217_B1.html"
+  },
+  {
+    "id": 4552,
+    "date": "21 October 2025 - 08:27 PM",
+    "latitude": "08.81",
+    "longitude": "126.49",
+    "depth_km": "31 km",
+    "mag": "2.1",
+    "location": "024 km S 60° E of Cagwait (Surigao Del Sur)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1227_B1F.html"
+  },
+  {
+    "id": 4553,
+    "date": "21 October 2025 - 08:33 PM",
+    "latitude": "07.03",
+    "longitude": "126.47",
+    "depth_km": "21 km",
+    "mag": "2.4",
+    "location": "022 km S 20° W of Manay (Davao Oriental)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1233_B1F.html"
+  },
+  {
+    "id": 4554,
+    "date": "21 October 2025 - 08:38 PM",
+    "latitude": "09.64",
+    "longitude": "126.20",
+    "depth_km": "35 km",
+    "mag": "1.4",
+    "location": "016 km S 16° E of General Luna (Surigao Del Norte)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1238_B1F.html"
+  },
+  {
+    "id": 4555,
+    "date": "21 October 2025 - 09:23 PM",
+    "latitude": "11.13",
+    "longitude": "124.12",
+    "depth_km": "7 km",
+    "mag": "2.0",
+    "location": "018 km N 59° E of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1323_B1F.html"
+  },
+  {
+    "id": 4556,
+    "date": "21 October 2025 - 09:33 PM",
+    "latitude": "07.42",
+    "longitude": "127.38",
+    "depth_km": "13 km",
+    "mag": "2.9",
+    "location": "096 km N 76° E of Manay (Davao Oriental)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1333_B1F.html"
+  },
+  {
+    "id": 4557,
+    "date": "21 October 2025 - 09:38 PM",
+    "latitude": "16.89",
+    "longitude": "120.66",
+    "depth_km": "94 km",
+    "mag": "2.2",
+    "location": "013 km S 38° W of Cervantes (Ilocos Sur)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1338_B1.html"
+  },
+  {
+    "id": 4558,
+    "date": "21 October 2025 - 10:11 PM",
+    "latitude": "11.20",
+    "longitude": "124.18",
+    "depth_km": "15 km",
+    "mag": "1.9",
+    "location": "028 km N 51° E of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1411_B1F.html"
+  },
+  {
+    "id": 4559,
+    "date": "21 October 2025 - 10:23 PM",
+    "latitude": "05.31",
+    "longitude": "125.55",
+    "depth_km": "20 km",
+    "mag": "2.8",
+    "location": "018 km S 49° E of Balut Island (Municipality Of Sarangani) (Davao Occidental)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1423_B1.html"
+  },
+  {
+    "id": 4560,
+    "date": "21 October 2025 - 10:25 PM",
+    "latitude": "18.62",
+    "longitude": "121.08",
+    "depth_km": "2 km",
+    "mag": "2.0",
+    "location": "002 km N 07° W of Claveria (Cagayan)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1425_B1.html"
+  },
+  {
+    "id": 4561,
+    "date": "21 October 2025 - 10:27 PM",
+    "latitude": "07.36",
+    "longitude": "124.41",
+    "depth_km": "25 km",
+    "mag": "2.1",
+    "location": "009 km N 10° W of Pigkawayan (Cotabato)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1427_B1.html"
+  },
+  {
+    "id": 4562,
+    "date": "21 October 2025 - 10:30 PM",
+    "latitude": "10.96",
+    "longitude": "124.02",
+    "depth_km": "9 km",
+    "mag": "2.4",
+    "location": "011 km S 25° E of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1430_B1F.html"
+  },
+  {
+    "id": 4563,
+    "date": "21 October 2025 - 11:15 PM",
+    "latitude": "09.73",
+    "longitude": "126.11",
+    "depth_km": "30 km",
+    "mag": "2.2",
+    "location": "007 km S 43° W of General Luna (Surigao Del Norte)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1515_B1F.html"
+  },
+  {
+    "id": 4564,
+    "date": "21 October 2025 - 11:21 PM",
+    "latitude": "09.21",
+    "longitude": "125.88",
+    "depth_km": "34 km",
+    "mag": "1.4",
+    "location": "011 km S 58° W of Madrid (Surigao Del Sur)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1521_B1.html"
+  },
+  {
+    "id": 4565,
+    "date": "21 October 2025 - 11:34 PM",
+    "latitude": "09.67",
+    "longitude": "126.20",
+    "depth_km": "33 km",
+    "mag": "1.8",
+    "location": "014 km S 20° E of General Luna (Surigao Del Norte)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1534_B1F.html"
+  },
+  {
+    "id": 4566,
+    "date": "21 October 2025 - 11:56 PM",
+    "latitude": "11.13",
+    "longitude": "123.83",
+    "depth_km": "32 km",
+    "mag": "2.1",
+    "location": "018 km N 61° W of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1556_B1F.html"
+  },
+  {
+    "id": 4567,
+    "date": "22 October 2025 - 12:06 AM",
+    "latitude": "10.79",
+    "longitude": "122.89",
+    "depth_km": "13 km",
+    "mag": "2.0",
+    "location": "009 km S 81° W of City Of Silay (Negros Occidental)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1606_B1.html"
+  },
+  {
+    "id": 4568,
+    "date": "22 October 2025 - 12:19 AM",
+    "latitude": "11.10",
+    "longitude": "124.13",
+    "depth_km": "33 km",
+    "mag": "1.8",
+    "location": "017 km N 69° E of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_161930_B1F.html"
+  },
+  {
+    "id": 4569,
+    "date": "22 October 2025 - 12:19 AM",
+    "latitude": "09.65",
+    "longitude": "126.17",
+    "depth_km": "33 km",
+    "mag": "1.5",
+    "location": "015 km S 06° E of General Luna (Surigao Del Norte)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_161934_B1F.html"
+  },
+  {
+    "id": 4570,
+    "date": "22 October 2025 - 12:20 AM",
+    "latitude": "12.69",
+    "longitude": "123.57",
+    "depth_km": "6 km",
+    "mag": "1.8",
+    "location": "012 km N 64° W of Monreal (Masbate)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1620_B1.html"
+  },
+  {
+    "id": 4571,
+    "date": "22 October 2025 - 12:24 AM",
+    "latitude": "09.95",
+    "longitude": "126.52",
+    "depth_km": "65 km",
+    "mag": "1.5",
+    "location": "044 km N 64° E of General Luna (Surigao Del Norte)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1624_B1F.html"
+  },
+  {
+    "id": 4572,
+    "date": "22 October 2025 - 12:32 AM",
+    "latitude": "14.27",
+    "longitude": "123.07",
+    "depth_km": "8 km",
+    "mag": "1.7",
+    "location": "018 km N 19° E of Mercedes (Camarines Norte)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1632_B1.html"
+  },
+  {
+    "id": 4573,
+    "date": "22 October 2025 - 12:41 AM",
+    "latitude": "09.19",
+    "longitude": "126.74",
+    "depth_km": "13 km",
+    "mag": "2.2",
+    "location": "057 km N 58° E of Cagwait (Surigao Del Sur)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_164107_B1F.html"
+  },
+  {
+    "id": 4574,
+    "date": "22 October 2025 - 12:41 AM",
+    "latitude": "11.11",
+    "longitude": "124.12",
+    "depth_km": "3 km",
+    "mag": "1.8",
+    "location": "017 km N 66° E of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_164135_B1F.html"
+  },
+  {
+    "id": 4575,
+    "date": "22 October 2025 - 01:02 AM",
+    "latitude": "09.65",
+    "longitude": "126.17",
+    "depth_km": "28 km",
+    "mag": "2.0",
+    "location": "015 km S 07° E of General Luna (Surigao Del Norte)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1702_B1F.html"
+  },
+  {
+    "id": 4576,
+    "date": "22 October 2025 - 01:03 AM",
+    "latitude": "07.35",
+    "longitude": "127.35",
+    "depth_km": "12 km",
+    "mag": "2.8",
+    "location": "087 km N 80° E of Manay (Davao Oriental)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1703_B1F.html"
+  },
+  {
+    "id": 4577,
+    "date": "22 October 2025 - 01:05 AM",
+    "latitude": "07.12",
+    "longitude": "126.82",
+    "depth_km": "25 km",
+    "mag": "2.3",
+    "location": "033 km S 72° E of Manay (Davao Oriental)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1705_B1F.html"
+  },
+  {
+    "id": 4578,
+    "date": "22 October 2025 - 01:17 AM",
+    "latitude": "07.33",
+    "longitude": "127.10",
+    "depth_km": "12 km",
+    "mag": "2.9",
+    "location": "064 km N 78° E of Manay (Davao Oriental)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1717_B1F.html"
+  },
+  {
+    "id": 4579,
+    "date": "22 October 2025 - 01:18 AM",
+    "latitude": "07.28",
+    "longitude": "126.85",
+    "depth_km": "22 km",
+    "mag": "1.5",
+    "location": "035 km N 78° E of Manay (Davao Oriental)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1718_B1F.html"
+  },
+  {
+    "id": 4580,
+    "date": "22 October 2025 - 01:21 AM",
+    "latitude": "09.64",
+    "longitude": "126.31",
+    "depth_km": "31 km",
+    "mag": "2.8",
+    "location": "023 km S 46° E of General Luna (Surigao Del Norte)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1721_B1F.html"
+  },
+  {
+    "id": 4581,
+    "date": "22 October 2025 - 01:23 AM",
+    "latitude": "07.41",
+    "longitude": "126.52",
+    "depth_km": "5 km",
+    "mag": "1.7",
+    "location": "022 km N 06° W of Manay (Davao Oriental)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1723_B1F.html"
+  },
+  {
+    "id": 4582,
+    "date": "22 October 2025 - 01:23 AM",
+    "latitude": "07.35",
+    "longitude": "126.78",
+    "depth_km": "20 km",
+    "mag": "2.2",
+    "location": "030 km N 59° E of Manay (Davao Oriental)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_172358_B1F.html"
+  },
+  {
+    "id": 4583,
+    "date": "22 October 2025 - 01:38 AM",
+    "latitude": "08.82",
+    "longitude": "126.48",
+    "depth_km": "29 km",
+    "mag": "2.2",
+    "location": "023 km S 60° E of Cagwait (Surigao Del Sur)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1738_B1F.html"
+  },
+  {
+    "id": 4584,
+    "date": "22 October 2025 - 01:45 AM",
+    "latitude": "10.93",
+    "longitude": "123.96",
+    "depth_km": "20 km",
+    "mag": "2.0",
+    "location": "013 km S 11° W of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1745_B1F.html"
+  },
+  {
+    "id": 4585,
+    "date": "22 October 2025 - 01:52 AM",
+    "latitude": "12.93",
+    "longitude": "126.05",
+    "depth_km": "36 km",
+    "mag": "4.2",
+    "location": "100 km N 60° E of Mapanas (Northern Samar)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1752_B2.html"
+  },
+  {
+    "id": 4586,
+    "date": "22 October 2025 - 02:27 AM",
+    "latitude": "07.17",
+    "longitude": "126.72",
+    "depth_km": "20 km",
+    "mag": "1.9",
+    "location": "020 km S 76° E of Manay (Davao Oriental)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1827_B1F.html"
+  },
+  {
+    "id": 4587,
+    "date": "22 October 2025 - 02:31 AM",
+    "latitude": "07.28",
+    "longitude": "126.91",
+    "depth_km": "4 km",
+    "mag": "1.8",
+    "location": "042 km N 79° E of Manay (Davao Oriental)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1831_B1F.html"
+  },
+  {
+    "id": 4588,
+    "date": "22 October 2025 - 02:33 AM",
+    "latitude": "16.15",
+    "longitude": "122.26",
+    "depth_km": "7 km",
+    "mag": "1.9",
+    "location": "021 km S 47° E of Casiguran (Aurora)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1833_B1.html"
+  },
+  {
+    "id": 4589,
+    "date": "22 October 2025 - 02:34 AM",
+    "latitude": "13.59",
+    "longitude": "120.36",
+    "depth_km": "2 km",
+    "mag": "2.0",
+    "location": "039 km S 41° E of Lubang (Occidental Mindoro)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1834_B1.html"
+  },
+  {
+    "id": 4590,
+    "date": "22 October 2025 - 03:00 AM",
+    "latitude": "09.64",
+    "longitude": "126.09",
+    "depth_km": "34 km",
+    "mag": "2.1",
+    "location": "017 km S 27° W of General Luna (Surigao Del Norte)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1900_B1F.html"
+  },
+  {
+    "id": 4591,
+    "date": "22 October 2025 - 03:16 AM",
+    "latitude": "09.47",
+    "longitude": "126.25",
+    "depth_km": "30 km",
+    "mag": "2.1",
+    "location": "036 km S 17° E of General Luna (Surigao Del Norte)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1916_B1F.html"
+  },
+  {
+    "id": 4592,
+    "date": "22 October 2025 - 03:18 AM",
+    "latitude": "07.25",
+    "longitude": "126.87",
+    "depth_km": "25 km",
+    "mag": "2.5",
+    "location": "036 km N 84° E of Manay (Davao Oriental)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1918_B1F.html"
+  },
+  {
+    "id": 4593,
+    "date": "22 October 2025 - 03:20 AM",
+    "latitude": "07.23",
+    "longitude": "126.76",
+    "depth_km": "22 km",
+    "mag": "1.8",
+    "location": "024 km N 85° E of Manay (Davao Oriental)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1920_B1F.html"
+  },
+  {
+    "id": 4594,
+    "date": "22 October 2025 - 03:43 AM",
+    "latitude": "09.76",
+    "longitude": "126.18",
+    "depth_km": "32 km",
+    "mag": "2.5",
+    "location": "003 km S 37° E of General Luna (Surigao Del Norte)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1943_B1F.html"
+  },
+  {
+    "id": 4595,
+    "date": "22 October 2025 - 03:53 AM",
+    "latitude": "10.97",
+    "longitude": "124.03",
+    "depth_km": "28 km",
+    "mag": "2.0",
+    "location": "010 km S 33° E of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1953_B1F.html"
+  },
+  {
+    "id": 4596,
+    "date": "22 October 2025 - 03:54 AM",
+    "latitude": "05.72",
+    "longitude": "126.46",
+    "depth_km": "61 km",
+    "mag": "3.2",
+    "location": "093 km S 77° E of Jose Abad Santos (Davao Occidental)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1954_B1.html"
+  },
+  {
+    "id": 4597,
+    "date": "22 October 2025 - 03:57 AM",
+    "latitude": "17.66",
+    "longitude": "120.40",
+    "depth_km": "3 km",
+    "mag": "2.9",
+    "location": "003 km N 33° W of Santo Domingo (Ilocos Sur)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_195711_B1.html"
+  },
+  {
+    "id": 4598,
+    "date": "22 October 2025 - 03:57 AM",
+    "latitude": "07.58",
+    "longitude": "122.14",
+    "depth_km": "11 km",
+    "mag": "2.7",
+    "location": "001 km S 16° W of Sirawai (Zamboanga Del Norte)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_1957_B1.html"
+  },
+  {
+    "id": 4599,
+    "date": "22 October 2025 - 04:09 AM",
+    "latitude": "05.97",
+    "longitude": "126.08",
+    "depth_km": "134 km",
+    "mag": "2.1",
+    "location": "048 km N 83° E of Jose Abad Santos (Davao Occidental)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_2009_B1.html"
+  },
+  {
+    "id": 4600,
+    "date": "22 October 2025 - 05:03 AM",
+    "latitude": "10.51",
+    "longitude": "123.68",
+    "depth_km": "34 km",
+    "mag": "1.9",
+    "location": "004 km N 85° W of Balamban (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_2103_B1.html"
+  },
+  {
+    "id": 4601,
+    "date": "22 October 2025 - 05:35 AM",
+    "latitude": "07.87",
+    "longitude": "125.18",
+    "depth_km": "43 km",
+    "mag": "2.0",
+    "location": "011 km S 72° E of City Of Valencia (Bukidnon)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_2135_B1.html"
+  },
+  {
+    "id": 4602,
+    "date": "22 October 2025 - 05:37 AM",
+    "latitude": "13.65",
+    "longitude": "120.63",
+    "depth_km": "92 km",
+    "mag": "1.9",
+    "location": "020 km S 01° W of Calatagan (Batangas)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_2137_B1.html"
+  },
+  {
+    "id": 4603,
+    "date": "22 October 2025 - 06:05 AM",
+    "latitude": "07.96",
+    "longitude": "126.38",
+    "depth_km": "132 km",
+    "mag": "1.7",
+    "location": "009 km S 24° W of Lingig (Surigao Del Sur)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_2205_B1.html"
+  },
+  {
+    "id": 4604,
+    "date": "22 October 2025 - 06:06 AM",
+    "latitude": "11.15",
+    "longitude": "124.02",
+    "depth_km": "33 km",
+    "mag": "1.8",
+    "location": "012 km N 21° E of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_2206_B1F.html"
+  },
+  {
+    "id": 4605,
+    "date": "22 October 2025 - 06:11 AM",
+    "latitude": "09.65",
+    "longitude": "126.23",
+    "depth_km": "32 km",
+    "mag": "1.4",
+    "location": "017 km S 28° E of General Luna (Surigao Del Norte)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_221126_B1F.html"
+  },
+  {
+    "id": 4606,
+    "date": "22 October 2025 - 06:11 AM",
+    "latitude": "11.17",
+    "longitude": "123.91",
+    "depth_km": "10 km",
+    "mag": "2.2",
+    "location": "015 km N 28° W of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_221141_B1F.html"
+  },
+  {
+    "id": 4607,
+    "date": "22 October 2025 - 06:23 AM",
+    "latitude": "11.25",
+    "longitude": "123.94",
+    "depth_km": "9 km",
+    "mag": "2.3",
+    "location": "022 km N 10° W of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_2223_B1F.html"
+  },
+  {
+    "id": 4608,
+    "date": "22 October 2025 - 06:29 AM",
+    "latitude": "11.20",
+    "longitude": "123.91",
+    "depth_km": "2 km",
+    "mag": "3.3",
+    "location": "018 km N 25° W of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_2229_B1F.html"
+  },
+  {
+    "id": 4609,
+    "date": "22 October 2025 - 06:38 AM",
+    "latitude": "11.12",
+    "longitude": "124.28",
+    "depth_km": "1 km",
+    "mag": "2.3",
+    "location": "034 km N 77° E of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_2238_B1F.html"
+  },
+  {
+    "id": 4610,
+    "date": "22 October 2025 - 06:45 AM",
+    "latitude": "10.86",
+    "longitude": "123.87",
+    "depth_km": "3 km",
+    "mag": "2.5",
+    "location": "024 km S 29° W of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_2245_B1F.html"
+  },
+  {
+    "id": 4611,
+    "date": "22 October 2025 - 07:09 AM",
+    "latitude": "09.75",
+    "longitude": "126.57",
+    "depth_km": "15 km",
+    "mag": "2.3",
+    "location": "045 km S 86° E of General Luna (Surigao Del Norte)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_2309_B1F.html"
+  },
+  {
+    "id": 4612,
+    "date": "22 October 2025 - 07:21 AM",
+    "latitude": "11.13",
+    "longitude": "124.01",
+    "depth_km": "19 km",
+    "mag": "1.6",
+    "location": "010 km N 22° E of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_2321_B1F.html"
+  },
+  {
+    "id": 4613,
+    "date": "22 October 2025 - 07:36 AM",
+    "latitude": "19.07",
+    "longitude": "121.11",
+    "depth_km": "15 km",
+    "mag": "2.4",
+    "location": "011 km S 69° W of Dalupiri Island (Calayan) (Cagayan)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_2336_B1.html"
+  },
+  {
+    "id": 4614,
+    "date": "22 October 2025 - 07:43 AM",
+    "latitude": "08.92",
+    "longitude": "126.48",
+    "depth_km": "19 km",
+    "mag": "3.8",
+    "location": "019 km N 89° E of Cagwait (Surigao Del Sur)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_2343_B1F.html"
+  },
+  {
+    "id": 4615,
+    "date": "22 October 2025 - 07:53 AM",
+    "latitude": "06.94",
+    "longitude": "127.35",
+    "depth_km": "11 km",
+    "mag": "3.0",
+    "location": "094 km S 71° E of Manay (Davao Oriental)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_2353_B1F.html"
+  },
+  {
+    "id": 4616,
+    "date": "22 October 2025 - 07:58 AM",
+    "latitude": "13.81",
+    "longitude": "120.58",
+    "depth_km": "80 km",
+    "mag": "1.5",
+    "location": "006 km S 62° W of Calatagan (Batangas)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_2358_B1.html"
+  },
+  {
+    "id": 4617,
+    "date": "22 October 2025 - 08:18 AM",
+    "latitude": "11.04",
+    "longitude": "124.03",
+    "depth_km": "8 km",
+    "mag": "2.4",
+    "location": "005 km S 86° E of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1022_0018_B1F.html"
   }
 ]
