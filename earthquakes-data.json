@@ -45252,12 +45252,12 @@
   {
     "id": 4526,
     "date": "21 October 2025 - 01:06 PM",
-    "latitude": "11.15",
-    "longitude": "124.05",
-    "depth_km": "31 km",
-    "mag": "1.9",
-    "location": "014 km N 34° E of City Of Bogo (Cebu)",
-    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_0506_B1F.html"
+    "latitude": "11.17",
+    "longitude": "124.06",
+    "depth_km": "33 km",
+    "mag": "2.0",
+    "location": "016 km N 33° E of City Of Bogo (Cebu)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1021_0506_B2F.html"
   },
   {
     "id": 4527,
@@ -46188,5 +46188,15 @@
     "mag": "2.3",
     "location": "026 km N 26° E of City Of Bogo (Cebu)",
     "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1022_0100_B1F.html"
+  },
+  {
+    "id": 4620,
+    "date": "22 October 2025 - 09:15 AM",
+    "latitude": "09.78",
+    "longitude": "126.23",
+    "depth_km": "50 km",
+    "mag": "2.2",
+    "location": "008 km S 88° E of General Luna (Surigao Del Norte)",
+    "href": "https://earthquake.phivolcs.dost.gov.ph/2025_Earthquake_Information/October/2025_1022_0115_B1F.html"
   }
 ]
